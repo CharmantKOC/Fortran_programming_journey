@@ -1,0 +1,11 @@
+*
+
+!*/
+
+!*.f90
+!*.f
+!*.f95
+
+!.gitignore
+!README.md
+!Makefile
